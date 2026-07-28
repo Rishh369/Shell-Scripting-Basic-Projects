@@ -1,1 +1,0 @@
-Sample shell scripting projects
