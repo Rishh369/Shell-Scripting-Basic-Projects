@@ -1,4 +1,4 @@
-#This project shows the system information- 1)host name 2)Kernel Version 3)OS 4)System Uptime 5)CPU Info 6)Memory Usage
+#This script shows the system information- 1)host name 2)Kernel Version 3)OS 4)System Uptime 5)CPU Info 6)Memory Usage
 
 #!/bin/bash
 
