@@ -1,5 +1,6 @@
+# This script monitors disk space usage and sends an email alert if the usage exceeds the given threshold.
+
 #!/bin/bash
-# This script monitors disk space usage and sends an email alert if the usage exceeds a specified threshold.
 
 # Set the threshold percentage for disk space usage
 threshold=80
